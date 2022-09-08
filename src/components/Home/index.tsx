@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from 'next/future/image';
 
 import profilePic from './me.png';
 import DribbbleIcon from './dribbble-brands.svg';
@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <main className={styles.main}>
       <div className={styles.profileImage}>
-        <Image src={profilePic} alt="3D portrait of Ping Lu" layout="fill" />
+        <Image src={profilePic} alt="3D portrait of Ping Lu" fill />
       </div>
 
       <h1 className={styles.name}>Ping Lu</h1>
