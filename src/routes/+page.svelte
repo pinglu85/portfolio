@@ -10,7 +10,7 @@
 	</div>
 
 	<h1>Ping Lu</h1>
-	<h4>Frontend Developer</h4>
+	<h4>Frontend Engineer</h4>
 	<p>The website is currently under construction.</p>
 
 	<div class="social-media-container">
